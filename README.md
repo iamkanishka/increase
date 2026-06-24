@@ -19,13 +19,13 @@ Built on top of [Req](https://github.com/wojtekmach/req), with:
 
 Add :increase to your list of dependencies in mix.exs:
 
-elixir
+```elixir
 def deps do
   [
     {:increase, "~> 1.0.0"}
   ]
 end
-
+```
 
 ## Configuration
 

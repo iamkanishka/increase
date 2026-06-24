@@ -66,7 +66,7 @@ defmodule Increase.MixProject do
     [
       licenses: ["MIT"],
       links: %{"GitHub" => @source_url},
-      files: ~w(lib mix.exs README.md LICENSE CHANGELOG.md CONTRIBUTING.md)
+      files: ~w(lib mix.exs README.md LICENSE CHANGELOG.md)
     ]
   end
 
